@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRAZY CIRCLE</string>
+
+    <string name="help_info">Вы — точка, которая бегает по экрану и пожирает другие точки.\n\n
+Чем больше точек реинкарнация Пакмена кушает, тем больше становится сама.\n\n
+\n
+\n\n
+</string>
+</resources>
+
